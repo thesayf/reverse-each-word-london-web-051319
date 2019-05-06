@@ -7,7 +7,6 @@ new_array.each do |word|
   
   new_sentence << word.reverse
   
-
 end
 
 new_sentence.join(" ")
